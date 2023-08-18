@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+color: blue;
+text-align: center;
+border: solid 3px black;
+
+}
+
+h1:hover{
+
+color: white;
+background-color: black;
+
+}
+
+
+.bordermargin{
+
+margin-left: 120px;
+margin-right: 230px;
+padding-left: 140px;
+margin-top: 20px;
+
+}
+
+.box{
+
+    background-color: black;
+    height: 160px;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: 80px;
+  
+
+
+}
+
+.box:hover{
+  
+background-color: red;
+}
+
+
+
